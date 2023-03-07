@@ -42,10 +42,10 @@ installDependencies(){
     apt install apache2 -y
 
     # Instalar unzip
-    apt install unzip
+    apt install unzip -y
     
     # instalar wget
-    apt install wget
+    apt install wget -y
 
     print "Dependências instaladas com sucesso!"
     cls
