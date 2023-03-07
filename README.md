@@ -11,7 +11,7 @@ Desenvolver um programa em shell script capaz de realizar os seguintes procedime
 - Instalar o unzip;
 - Baixar a aplicação disponível no endereço 
     https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip no diretório `/tmp/`;
-- Copiar os arquivos do diretório no diretório padrão do apache
+- Copiar os arquivos da aplicação no diretório padrão do apache;
 
 
 ### Como executar ?
